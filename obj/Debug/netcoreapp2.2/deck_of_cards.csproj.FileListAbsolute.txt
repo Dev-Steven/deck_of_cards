@@ -1,0 +1,11 @@
+/Users/stevenchung/Documents/coding_dojo/c#_stack/oop/deck_of_cards/bin/Debug/netcoreapp2.2/deck_of_cards.deps.json
+/Users/stevenchung/Documents/coding_dojo/c#_stack/oop/deck_of_cards/bin/Debug/netcoreapp2.2/deck_of_cards.runtimeconfig.json
+/Users/stevenchung/Documents/coding_dojo/c#_stack/oop/deck_of_cards/bin/Debug/netcoreapp2.2/deck_of_cards.runtimeconfig.dev.json
+/Users/stevenchung/Documents/coding_dojo/c#_stack/oop/deck_of_cards/bin/Debug/netcoreapp2.2/deck_of_cards.dll
+/Users/stevenchung/Documents/coding_dojo/c#_stack/oop/deck_of_cards/bin/Debug/netcoreapp2.2/deck_of_cards.pdb
+/Users/stevenchung/Documents/coding_dojo/c#_stack/oop/deck_of_cards/obj/Debug/netcoreapp2.2/deck_of_cards.csprojAssemblyReference.cache
+/Users/stevenchung/Documents/coding_dojo/c#_stack/oop/deck_of_cards/obj/Debug/netcoreapp2.2/deck_of_cards.csproj.CoreCompileInputs.cache
+/Users/stevenchung/Documents/coding_dojo/c#_stack/oop/deck_of_cards/obj/Debug/netcoreapp2.2/deck_of_cards.AssemblyInfoInputs.cache
+/Users/stevenchung/Documents/coding_dojo/c#_stack/oop/deck_of_cards/obj/Debug/netcoreapp2.2/deck_of_cards.AssemblyInfo.cs
+/Users/stevenchung/Documents/coding_dojo/c#_stack/oop/deck_of_cards/obj/Debug/netcoreapp2.2/deck_of_cards.dll
+/Users/stevenchung/Documents/coding_dojo/c#_stack/oop/deck_of_cards/obj/Debug/netcoreapp2.2/deck_of_cards.pdb
